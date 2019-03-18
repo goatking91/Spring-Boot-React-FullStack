@@ -1,1 +1,4 @@
-# Spring-Boot-React-fullStack
+# Spring-Boot-React-FullStack
+
+## Backend: SpringBoot
+### Dependency: JPA, MySql, Web, Security
